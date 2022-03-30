@@ -1,8 +1,11 @@
+<img src="https://i.imgur.com/YX6UATs.png"  width="160">
+
 Este repositório é parte das tarefas do curso de Data Science da Awari. O objetivo deste projeto é fazer o web scraping de vagas de Cientista de Dados em São Paulo no Linkedin e criar uma nuvem de palavras. Este projeto foi montado seguindo as premissas de [Pesquisas Reprodutíveis](https://pt.coursera.org/learn/reproducible-research), de modo que qualquer pessoa consiga chegar aos mesmos resultados que eu utilizando os passos que segui no Jupyter Notebook.
 
-# Dependências do projeto
+# Dependências do projeto:
 
 Todas as dependências podem ser encontradas no arquivo `requirements.txt`, mas abaixo estão listadas:
+
 * Selenium
 * Jupyter Notebook
 * Matplotlib
@@ -14,7 +17,7 @@ Para acessar o Jupyter Notebook que criei, execute na pasta raiz do projeto `jup
 
 É importante frisar que os dados utilizados para este desafio não foram adicionados a este projeto. 
 
-# Estrutura do projeto
+# Estrutura do projeto:
 
 ```{sh}
   .
