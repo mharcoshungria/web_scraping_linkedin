@@ -2,7 +2,7 @@
 
 # Web Scraping - Linkedin
 
-Este notebook é parte das tarefas da Formação Intensiva de Data Science da [Awari](https://awari.com.br/). 
+Este repositório é parte das tarefas da Formação Intensiva de Data Science da [Awari](https://awari.com.br/). 
 
 O objetivo deste projeto é fazer o web scraping de vagas de Cientista de Dados em São Paulo no Linkedin e criar uma nuvem de palavras. Este projeto foi montado seguindo as premissas de [Pesquisas Reprodutíveis](https://pt.coursera.org/learn/reproducible-research), de modo que qualquer pessoa consiga chegar aos mesmos resultados que eu utilizando os passos que segui no Jupyter Notebook.
 
